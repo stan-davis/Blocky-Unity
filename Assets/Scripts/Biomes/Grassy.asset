@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c448fe2e5c8a51c4d8e944c191d30142, type: 3}
+  m_Name: Grassy
+  m_EditorClassIdentifier: 
+  surfaceBlock: {fileID: 11400000, guid: b32c48ab670a06143bd88366e400dd85, type: 2}
+  belowSurfaceBlock: {fileID: 11400000, guid: ae63ba00e55af0e449c6bb82e8e8b72d, type: 2}
+  undergroundBlock: {fileID: 11400000, guid: bd2b85e5a5bd75b4fb0b52ed01e8f428, type: 2}
+  treeTrunk: {fileID: 11400000, guid: df55dd748dc1b254b95fe5c72d20b31e, type: 2}
+  treeLeaves: {fileID: 11400000, guid: 97d2c136f3b8df04eae9841e255c905f, type: 2}
+  terrainHeight: 30
+  noiseOffset: 2720
+  biomeScale: 0.29
+  terrainScale: 1.52
