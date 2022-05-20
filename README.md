@@ -1,4 +1,4 @@
-# Blocky_Unity
+# Blocky Unity
 A Minecraft Clone built in Unity. University work. Inspired by a similar implementation by [Sam Hogan](https://github.com/samhogan/Minecraft-Unity3D).
 
 ## Controls
